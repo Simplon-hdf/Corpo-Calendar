@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59495",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\decdu\\OneDrive\\Bureau\\corpo\\Corpo-Calendar\\src\\ReactApp1\\ReactApp1.Server\\..\\reactapp1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
