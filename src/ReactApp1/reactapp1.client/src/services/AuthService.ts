@@ -10,7 +10,7 @@ export class AuthService {
         } else {
           reject(new Error('Identifiants invalides'));
         }
-      }, 500); // Simulation d'un délai réseau
+      }, 500);
     });
   }
 }

@@ -29,7 +29,7 @@ export class CommentService {
         }
         
         resolve(newComment);
-      }, 500); // Simule un délai réseau
+      }, 500); 
     });
   }
 
